@@ -1,0 +1,505 @@
+pre/post;project;commit;author;time;message
+pre;ashiklom_edr-da;454202ebb0b93f87d3ec482833beefd25088cdad;Alexey Shiklomanov <alexey.shiklomanov@gmail.com>;1614889064;"Add diff target to root makefile
+"
+pre;ashiklom_edr-da;37a21cdf4b4204704fe1944f5f3f3f6f1fc63c1f;Alexey Shiklomanov <alexey.shiklomanov@gmail.com>;1614889840;"Fix response line numbers
+"
+pre;ashiklom_edr-da;1a41a6773542e6f27c0d7b2a416cbf51f3d57a41;Alexey Shiklomanov <alexey.shiklomanov@gmail.com>;1614890814;"Update references
+"
+pre;ashiklom_edr-da;70ad07e9a54897c27c07261350cd37151cec0138;Alexey Shiklomanov <alexey.shiklomanov@gmail.com>;1614891832;"Remove a lot of deprecated code
+"
+pre;ashiklom_edr-da;a66f1608e3f0154da6ff5b28326d9bbcfb7493fc;Alexey Shiklomanov <alexey.shiklomanov@gmail.com>;1614892115;"Update README
+"
+pre;ashiklom_edr-da;9753037fed11a0d98216e87241b2ff723b6167c0;Alexey Shiklomanov <alexey.shiklomanov@gmail.com>;1614892200;"Add comment text to repo
+"
+pre;ashiklom_edr-da;bac7e0132d53503117f6b55d7ea1a456b36ffc5f;Alexey Shiklomanov <alexey.shiklomanov@gmail.com>;1617975446;"Address Tris's round 2 comments
+"
+pre;ashiklom_edr-da;feed3f999a954c62fb3aa2a1397238510ae8f0eb;Alexey Shiklomanov <alexey.shiklomanov@gmail.com>;1617976195;"Abstract tweaks for reviewer 1
+"
+pre;ashiklom_edr-da;c120b9cfb2a3b659496d4393de8d3e8dfe939ff3;Alexey Shiklomanov <alexey.shiklomanov@gmail.com>;1617983979;"Revise discussion and conclusions; minor tweaks
+"
+pre;ashiklom_edr-da;b092600954b73fa064300c6e7b21d0413d115b94;Alexey Shiklomanov <alexey.shiklomanov@gmail.com>;1618236017;"Update acknowledgments
+"
+post;ashiklom_edr-da;153fd4c13abcdf5c75926f8f5fe9596264fd6a8a;Alexey Shiklomanov <alexey.shiklomanov@nasa.gov>;1750426419;Create LICENSE
+pre;ctlab_fgsea;102b439e2208ae415dc19d3d1ac8936f9c5999f1;J Wokaty <jwokaty@users.noreply.github.com>;1682434076;"bump x.y.z version to even y prior to creation of RELEASE_3_17 branch
+"
+pre;ctlab_fgsea;894b310e48e2b0aca44993e79fbf187e19f5745c;Alexey Sergushichev <alsergbox@gmail.com>;1692110554;"update minimal R version to 4.1
+"
+pre;ctlab_fgsea;c93cd1eefbf6e9354b1ac5fef10c182aec9c14a1;Alexey Sergushichev <alsergbox@gmail.com>;1695842180;"github actions test
+"
+pre;ctlab_fgsea;1a69be25fd12cbcf36fdd35f41968d21726ed437;Alexey Sergushichev <alsergbox@gmail.com>;1695853535;"remove travis and appveyor
+"
+pre;ctlab_fgsea;a3bd78e1335a83836508fc029b7128775af61ce9;Alexey Sergushichev <alsergbox@gmail.com>;1695857708;"remove appveyor and codecov badges
+"
+pre;ctlab_fgsea;f1f918546f3db1f653c18edeade9939f6f7c1a7f;Alexey Sergushichev <alsergbox@gmail.com>;1695857769;"add github actions, remove travis/appveyor/codecov (#141)
+
+* github actions test
+
+* remove travis and appveyor
+
+* remove appveyor and codecov badges"
+pre;ctlab_fgsea;6c19b1edca90ef064c2246d52f3473d18dab0bcc;J Wokaty <jennifer.wokaty@sph.cuny.edu>;1698159069;"bump x.y.z version to even y prior to creation of RELEASE_3_18 branch
+"
+pre;ctlab_fgsea;763876baa14c6f2031919b48af5f0ab4b07ff632;J Wokaty <jennifer.wokaty@sph.cuny.edu>;1698159070;"bump x.y.z version to odd y following creation of RELEASE_3_18 branch
+"
+pre;ctlab_fgsea;f2506525644ec36f4c9607574966b93b4f2876f4;Alexey Sergushichev <alsergbox@gmail.com>;1698330413;"Merge remote-tracking branch 'upstream/master'
+"
+pre;ctlab_fgsea;ecfb89c55d938ca84605f1a1380a8cedd70f1ccf;Alexey Sergushichev <alsergbox@gmail.com>;1698335530;"fixed leadingEdge calculation depending on scoreType
+"
+post;ctlab_fgsea;dca369382f788353f8778c704c8351e761d434fa;Alexey Sergushichev <alsergbox@gmail.com>;1713804692;"switch from ctlab to alserglab for serving files
+"
+post;ctlab_fgsea;6d2787e0b0046ef50adc62706bf643d735d422c2;J Wokaty <jwokaty@users.noreply.github.com>;1714488722;"bump x.y.z version to odd y following creation of RELEASE_3_19 branch
+"
+post;ctlab_fgsea;5f634393679cb5556797982f1ee1ba0f5b4c24c6;J Wokaty <jwokaty@users.noreply.github.com>;1714488722;"bump x.y.z version to even y prior to creation of RELEASE_3_19 branch
+"
+post;ctlab_fgsea;41467e3c3fa5a4caa8fd5ac1e3ff7595093e55c1;Alexey Sergushichev <alsergbox@gmail.com>;1718139708;"stricter rules for gene names, fixes #149
+"
+post;ctlab_fgsea;32d71aa149926a30dab6dcfe0294ab7975fef462;markziemann <mark.ziemann@gmail.com>;1720661350;"include enrichment score in results
+"
+post;ctlab_fgsea;85db71e2aef7d901f4b4277a9eede3c4071b4c20;markziemann <mark.ziemann@gmail.com>;1720662165;"fix output
+"
+post;ctlab_fgsea;24f1d6cbefc5380a6c0ada97e0cb041441873d4b;markziemann <mark.ziemann@gmail.com>;1720662459;"document fold enrichment
+"
+post;ctlab_fgsea;79542157e83270aadfffe8fa67e11f9129482280;markziemann <mark.ziemann@gmail.com>;1720662605;"document changes and version bump
+"
+post;ctlab_fgsea;eea285e2303af442d986adcae7d8bb8c11c20c5b;Alexey Sergushichev <alsergbox@gmail.com>;1720708216;"data.table style foldEnrichment calculation
+"
+post;ctlab_fgsea;95f9759e09c0239547dbedb18ac5d4fcc451e380;markziemann <mark.ziemann@gmail.com>;1721217609;"fora example in vignette
+"
+pre;evalf_nutils;28ae68f3ee9d6351b21b89566a93c82b082f84f9;Gertjan van Zwieten <gertjanvanzwieten@evalf.nl>;1641044871;"set version number, name for next release
+"
+pre;evalf_nutils;86c68b11c2a7a40fb3e34b39e0f448251febf55a;Gertjan van Zwieten <gertjanvanzwieten@evalf.nl>;1641068020;"update changelog
+"
+pre;evalf_nutils;27a9bcf4bedb316117704bff540a6340028aa200;Joost van Zwieten <joostvanzwieten@evalf.com>;1642175854;"simplify deriv of evaluable.Greater,Less,Equal
+
+The derivatives of `evaluable.Greater`, `evaluable.Less` and `evaluable.Equal`,
+subclasses of `Pointwise`, were defined as partial derivatives to its
+arguments. While not wrong, `Pointwise._derivative`, in its ignorance, computes
+the derivative of the arguments and multiplies this with partial derivatives
+defined via `Pointwise.deriv`. Needlessly complex. This patch simply removes
+the implementations of `Pointwise.deriv`, which causes `Pointwise._derivative`
+to fallback to `Evaluable._derivative`. The latter immediately realises that
+the result should be zero based on the dtype of the function. As a side effect
+the dtype of the derivative changes from `float` to `bool`.
+"
+pre;evalf_nutils;cf6e7ee2b48493800759168680f6de112644cc75;Joost van Zwieten <joostvanzwieten@evalf.com>;1642175854;"simplify deriv of evaluable.Greater,Less,Equal
+
+The derivatives of `evaluable.Greater`, `evaluable.Less` and `evaluable.Equal`,
+subclasses of `Pointwise`, were defined as partial derivatives to its
+arguments. While not wrong, `Pointwise._derivative`, in its ignorance, computes
+the derivative of the arguments and multiplies this with partial derivatives
+defined via `Pointwise.deriv`. Needlessly complex. This patch simply removes
+the implementations of `Pointwise.deriv`, which causes `Pointwise._derivative`
+to fallback to `Evaluable._derivative`. The latter immediately realises that
+the result should be zero based on the dtype of the function. As a side effect
+the dtype of the derivative changes from `float` to `bool`.
+"
+pre;evalf_nutils;475a07b9d3e31fada5023ea6a56c0390f3f73c3a;Joost van Zwieten <joostvanzwieten@evalf.com>;1642176237;"fix derivative of evaluable.Cast
+
+The current implementation of `Cast._derivative` casts the result of the
+derivative of its argument to the desired dtype. This only works if the dtype
+of the derivative is the same as that of the argument. For `FloatToComplex`
+this always works, because the derivative can only be `float`. For `IntToFloat`
+the derivative of its argument is always zero, but the dtype could be `int` or
+`float` (which happens when you take the derivative of `Greater`). This patch
+works around the problem by implementing `_derivative` for `IntToFloat` and
+`FloatToComplex` separately.
+"
+pre;evalf_nutils;e22d471ca177c6b0ea3407b6b7700e3a2673433f;Joost van Zwieten <joostvanzwieten@evalf.com>;1642176237;"fix derivative of evaluable.Cast
+
+The current implementation of `Cast._derivative` casts the result of the
+derivative of its argument to the desired dtype. This only works if the dtype
+of the derivative is the same as that of the argument. For `FloatToComplex`
+this always works, because the derivative can only be `float`. For `IntToFloat`
+the derivative of its argument is always zero, but the dtype could be `int` or
+`float` (which happens when you take the derivative of `Greater`). This patch
+works around the problem by implementing `_derivative` for `IntToFloat` and
+`FloatToComplex` separately.
+"
+pre;evalf_nutils;4ce96b76ba73342808ab2987e8a44541bd188972;Joost van Zwieten <joostvanzwieten@evalf.com>;1642428211;"bump version to 8.0a0
+"
+pre;evalf_nutils;2dfd9f3a455da338abd8b09a564c8cdb72957103;Joost van Zwieten <joostvanzwieten@evalf.com>;1642428492;"assert dtype of derivative matches dtype of func
+
+With PR #645 implicit dtype casting in the evaluable module has been
+prohibited. This patch adds an assertion that the dtype of a derivative of a
+function is the same as the dtype of the function.
+"
+pre;evalf_nutils;d410e8798c83895863b911d14497dc9c0736338c;Joost van Zwieten <joostvanzwieten@evalf.com>;1642428492;"assert dtype of derivative matches dtype of func
+
+With PR #645 implicit dtype casting in the evaluable module has been
+prohibited. This patch adds an assertion that the dtype of a derivative of a
+function is the same as the dtype of the function.
+"
+pre;evalf_nutils;7ad6793ca5e3a43f45dcc0a4a795b381d2a0b9d4;Joost van Zwieten <joostvanzwieten@evalf.com>;1642452248;"Merge pull request #669 from evalf/fix-cast-derivative
+
+strict dtype of evaluable.derivative"
+post;evalf_nutils;4a87e1feb35aaecb9085b2389d6ac0fcd0a092b2;Wijnand Hoitinga <wijnandhoitinga@evalf.nl>;1647598993;"Speed improvement in gmsh parser
+
+Removing scalar addition to empty list
+"
+post;evalf_nutils;0f79b9e57d38c4a6f86d08f2cb8aac483b1ff3cd;Wijnand Hoitinga <wijnandhoitinga@evalf.nl>;1647598993;"Speed improvement in gmsh parser
+
+Removing scalar addition to empty list
+"
+post;evalf_nutils;fdac6e988a234235175393c75385ba016b9c8aab;Gertjan van Zwieten <gertjanvanzwieten@evalf.nl>;1647854342;"remove python 3.5, 3.6 from testing matrix
+"
+post;evalf_nutils;8ba47899c5a9030fa51aec70bafe63eede88b98f;Gertjan van Zwieten <gertjanvanzwieten@evalf.nl>;1647854422;"remove unreachable code path in util.binaryfile
+
+Since contextlib.nullcontext is available in all supported Python
+versions, this patch drops the fallback code path.
+"
+post;evalf_nutils;720b60e61a10537859540f4cc45d518fb4dffb21;Gertjan van Zwieten <gertjanvanzwieten@evalf.nl>;1647867851;"improve implementation of util.gather
+
+Since Python 3.7 dict maintains insertion order, so we no longer need to
+maintain a separate list in util.gather.
+"
+post;evalf_nutils;cd263cf0cbaecc534a393274cdd5cce572c21ab6;Gertjan van Zwieten <gertjanvanzwieten@evalf.nl>;1647873272;"bump required Python version to >=3.7
+
+Python version 3.5 reached end of life in September 2020, version 3.6 in
+December 2021. This patch drops support for both versions.
+"
+post;evalf_nutils;4e6b163136d327bef0327eed42c22e4465513339;Gertjan van Zwieten <gertjanvanzwieten@evalf.nl>;1647960158;"Merge pull request #674 from evalf/bump-py37
+
+Bump minimum Python version to 3.7"
+post;evalf_nutils;7bcd380a2fa1af06565909baf5cf697a4a53bb05;Gertjan van Zwieten <gertjanvanzwieten@evalf.nl>;1648029106;"Merge pull request #672 from wijnandhoitinga/gmshparser-boundarytags
+
+Gmshparser boundarytags"
+post;evalf_nutils;048053f5931a0b49632d0d3351587f65292bea7a;Gertjan van Zwieten <gertjanvanzwieten@evalf.nl>;1650537115;"update all examples to use fields instead of bases
+"
+post;evalf_nutils;05bb14d71a6d9c9560fe400cc943e9aa06cc3e61;Gertjan van Zwieten <gertjanvanzwieten@evalf.nl>;1650537115;"update all examples to use fields instead of bases
+"
+pre;exascaleinfolab_bench-vldb20;38b76b134b9b572082359821c8bb33994b914e93;Zakhar Tymchenko <3822929+ZakharTymchenko@users.noreply.github.com>;1655970556;Update install_linux.sh
+pre;exascaleinfolab_bench-vldb20;916d6b1a0a539e55a5eea5e6525eaa7bf9f9ddc9;Zakhar Tymchenko <3822929+ZakharTymchenko@users.noreply.github.com>;1671029765;Update TestRoutines.cs
+pre;exascaleinfolab_bench-vldb20;b47dc84bbad9c16ec1639b67d75d7e24285cf6ec;Zakhar Tymchenko <3822929+ZakharTymchenko@users.noreply.github.com>;1671029843;Update MRNNAlgorithm.cs
+pre;exascaleinfolab_bench-vldb20;459e9eb30dbd02e521aaf810b8d7bb35d224aab6;Zakhar Tymchenko <3822929+ZakharTymchenko@users.noreply.github.com>;1671029862;Update SSAAlgorithm.cs
+pre;exascaleinfolab_bench-vldb20;d29975e5738392b44354f47855c31e30d7094311;Zakhar Tymchenko <3822929+ZakharTymchenko@users.noreply.github.com>;1671033282;Update Program.cs
+pre;exascaleinfolab_bench-vldb20;f03ab46b0ea2acf90bf7f533f41373ac5efb8bae;Zakhar Tymchenko <3822929+ZakharTymchenko@users.noreply.github.com>;1671034695;Update install_linux.sh
+pre;exascaleinfolab_bench-vldb20;113eeb89f3d693bf35598d23ff93ca8c06f3158f;Zakhar Tymchenko <3822929+ZakharTymchenko@users.noreply.github.com>;1671034703;Update install_linux.sh
+pre;exascaleinfolab_bench-vldb20;d586d226d7218b78696e2d09ee4508bda5095e6c;Zakhar Tymchenko <3822929+ZakharTymchenko@users.noreply.github.com>;1671036425;Update install_linux.sh
+pre;exascaleinfolab_bench-vldb20;b2a859fcb07ac69c8a19fcaa8eaac3e2fe1e2131;Mourad Khayati <mkhayati@exascale.info>;1671043281;Update README.md
+pre;exascaleinfolab_bench-vldb20;fbe36dd8cc4acb951d8281cb89dc8c47ebef3526;Mourad Khayati <mkhayati@exascale.info>;1671043318;Update README.md
+post;exascaleinfolab_bench-vldb20;73e42a8bd4894ceeb1462406147a147ea6fe94be;Mourad Khayati <mkhayati@exascale.info>;1693394174;Update README.md
+post;exascaleinfolab_bench-vldb20;0185670655858b249df8204160c572e27663d555;Mourad Khayati <mkhayati@exascale.info>;1695826234;Update README.md
+post;exascaleinfolab_bench-vldb20;da48611d1dc7803e316c6124fafb9ba1555620c8;Mourad Khayati <mkhayati@exascale.info>;1695826991;Update README.md
+post;exascaleinfolab_bench-vldb20;19947c3d6a9221627fcc48141c88fde803a26d7a;Mourad Khayati <mkhayati@exascale.info>;1700043588;Update README.md
+post;exascaleinfolab_bench-vldb20;023c9de4a9f152f14cc3f4121c265d6ff5241a45;ZakharTymchenko <3822929+ZakharTymchenko@users.noreply.github.com>;1707755458;"added IIM algorithm code
+"
+post;exascaleinfolab_bench-vldb20;2cf70e1e301d2c3408042093085a92df43f08891;ZakharTymchenko <3822929+ZakharTymchenko@users.noreply.github.com>;1707755560;"deleted cached binaries (iim)
+"
+post;exascaleinfolab_bench-vldb20;25f232fd3b7eaf96d0eb04e8aa25fc13f6235ff3;Zakhar Tymchenko <3822929+ZakharTymchenko@users.noreply.github.com>;1707820248;"Update install_extra.sh
+
+added install packages for IIM"
+post;exascaleinfolab_bench-vldb20;221ff196d05c9ab00f3e81b7229e6dec19cd0c97;Zakhar Tymchenko <3822929+ZakharTymchenko@users.noreply.github.com>;1708338658;Update install_extra.sh
+post;exascaleinfolab_bench-vldb20;77cefd566ec659d31dab01d8b74ef07220b7a29a;Zakhar Tymchenko <3822929+ZakharTymchenko@users.noreply.github.com>;1708340227;Update install_extra.sh
+post;exascaleinfolab_bench-vldb20;7553d328f88707ddc62590e8fa21b8098a3b8ed2;Zakhar Tymchenko <3822929+ZakharTymchenko@users.noreply.github.com>;1708343600;disable multi-column for IIM
+pre;lampspuc_statespacemodels.jl;36ba9533fdc3c6d2f3798959d8b4f5394f7c9a5c;guilhermebodin <guilherme.b.moraes@gmail.com>;1742235616;"fix more docs
+"
+pre;lampspuc_statespacemodels.jl;65401e6f47d3be8f261e753ea8cac863450f0305;guilhermebodin <guilherme.b.moraes@gmail.com>;1742236084;"fix another output from doctest
+"
+pre;lampspuc_statespacemodels.jl;a151427c02e3341777c84d4ed5eef7bb5539efef;guilhermebodin <guilherme.b.moraes@gmail.com>;1742237176;"fix docs
+"
+pre;lampspuc_statespacemodels.jl;46f1d67d2384d5320da8484e90a44b4b903c5812;guilhermebodin <guilherme.b.moraes@gmail.com>;1742238012;"fix exports
+"
+pre;lampspuc_statespacemodels.jl;d85b64379ce495c128d47d6f716aa8b51c7d918b;guilhermebodin <guilherme.b.moraes@gmail.com>;1742238493;"update
+"
+pre;lampspuc_statespacemodels.jl;1820f73b9b0723ef98a832c7d11405f8060b65ad;guilhermebodin <guilherme.b.moraes@gmail.com>;1742239026;"fix cross referencing
+"
+pre;lampspuc_statespacemodels.jl;28423a983ae9b704a52ec8ce94cb12f066894529;Guilherme Bodin <32756941+guilhermebodin@users.noreply.github.com>;1742244444;"Update minor version (#334)
+
+* Update minor version
+
+* fix tests
+
+* bump actions
+
+* update jldoctest
+
+* Update .github/workflows/documentation.yml
+
+Co-authored-by: Raphael Saavedra <raphael.saavedra93@gmail.com>
+
+* fix more docs
+
+* fix another output from doctest
+
+* fix docs
+
+* fix exports
+
+* update
+
+* fix cross referencing
+
+---------
+
+Co-authored-by: Raphael Saavedra <raphael.saavedra93@gmail.com>"
+pre;lampspuc_statespacemodels.jl;067a0a2af912b26ed62e08d86469049ca3904d59;Documenter.jl <documenter@juliadocs.github.io>;1742244453;"delete history
+"
+pre;lampspuc_statespacemodels.jl;67bea5d1e5f7f6873e7eebc8512d46fc0c25f0a4;Documenter.jl <documenter@juliadocs.github.io>;1742244803;"build based on 28423a9
+"
+pre;lampspuc_statespacemodels.jl;976fda4ec96871feead77a93d8d5df7e6a092e1d;Documenter.jl <documenter@juliadocs.github.io>;1742247255;"build based on 28423a9
+"
+post;lampspuc_statespacemodels.jl;449a212984ddd59521968cd0f1a721862a4489ba;Fabricio Oliveira <fabricio.oliveira@aalto.fi>;1768492667;"Fix to remove deprecation warning from Optim.jl
+"
+post;lampspuc_statespacemodels.jl;fbb77cc58c6be8e40b4a34240676d265cca41c56;Fabricio Oliveira <fabricio.oliveira@aalto.fi>;1768509070;"Joseph covariance update and symmetry forcing
+"
+post;lampspuc_statespacemodels.jl;538bca7d67863b65d38aaafc03757f720a49aef3;Fabricio Oliveira <fabricio.oliveira@aalto.fi>;1768511391;"Adds more robust steady state check and PD frequent checks
+"
+post;lampspuc_statespacemodels.jl;432d4622cf4c02e4d92d309236d29ba22532c3d7;Fabricio Oliveira <fabricio.oliveira@aalto.fi>;1768512714;"Reworked exception catching to really catch numerical issues
+"
+post;lampspuc_statespacemodels.jl;549eb874bd8605e3757829f036f399359dcc8f5e;Fabricio Oliveira <fabol@dtu.dk>;1769824466;"Fix to remove deprecation warning from Optim.jl (#335)
+
+* Fix to remove deprecation warning from Optim.jl
+
+* Joseph covariance update and symmetry forcing
+
+* Adds more robust steady state check and PD frequent checks
+
+* Reworked exception catching to really catch numerical issues"
+post;lampspuc_statespacemodels.jl;b8740e2c3c35606c63de045f0964037832749338;guilhermebodin <guilherme.b.moraes@gmail.com>;1769827498;"Update version and fix tests
+"
+post;lampspuc_statespacemodels.jl;46301423e3aeabcdfccfd8c0ff660728b547d760;Fabricio Oliveira <fabol@dtu.dk>;1769858955;"Fix numerical issues with L-BFGS optimization
+
+- Wrap optim_loglike with try-catch to return finite penalty for invalid parameters
+- Catch AssertionError, LinearAlgebra exceptions, and DomainError to prevent line-search failures
+- Add AssertionError handling in auto_arima candidate fitting
+- Remove premature early exits in univariate Kalman filter to avoid undefined forecast arrays
+
+These changes prevent the 'isfinite(phi_d) && isfinite(gphi)' assertion error
+during SARIMA model optimization when the objective function encounters
+non-finite values.
+"
+post;lampspuc_statespacemodels.jl;25bf095fa91dfb659a6ae2020d7fe9844dafecff;Fabricio Oliveira <fabol@dtu.dk>;1769858974;"Relax test tolerances for cross-platform consistency
+
+- Add test verifying optim_loglike returns finite penalty for invalid parameters
+- Replace brittle SARIMA forecast value checks with finiteness assertions
+- Relax LocalLinearTrend loglike tolerance from 1e-5 to 1e-3
+- Relax BasicStructural loglike tolerance from 1e-5 to 5.0/5e-2
+- Relax UnobservedComponents loglike tolerance from 1e-5 to 1e-3/10.0
+- Relax DAR loglike tolerance from 1e-5 to 2.0/1e-3
+
+These adjustments account for optimizer variability across different
+platforms, Julia versions, and BLAS implementations while maintaining
+meaningful test coverage.
+"
+post;lampspuc_statespacemodels.jl;25fc614da027799e5ca8ede2b6552b4921236a5d;guilhermebodin <guilherme.b.moraes@gmail.com>;1769911038;"update
+"
+post;lampspuc_statespacemodels.jl;25becf7e473c0f529b840a47ddbdd681f538bac3;guilhermebodin <guilherme.b.moraes@gmail.com>;1769911682;"fix test
+"
+pre;oxfordska_oskar;a8541a64103024a7a856870603a783de7e477e9f;Fred Dulwich <fred.dulwich@oerc.ox.ac.uk>;1431615826;"Removed unneeded include.
+"
+pre;oxfordska_oskar;8a7d5d7af1190a6b5cc0593a274b5445f2c44877;Fred Dulwich <fred.dulwich@oerc.ox.ac.uk>;1431625774;"Added missing polarisation type enumerator to visibility header.
+"
+pre;oxfordska_oskar;8b7bd2ebd9c3d8218ab16ad3aa668e5514e1aaa7;Fred Dulwich <fred.dulwich@oerc.ox.ac.uk>;1431625858;"Updated enum in binary vis read/write test.
+"
+pre;oxfordska_oskar;87251c0652941ef8334a5eedca7d97160368382b;Benjamin Mort <ben.mort@gmail.com>;1431650472;"minor cmake updates after running cmakelint
+"
+pre;oxfordska_oskar;26d0e526bc4fcbcb0397ecc77871957d5ac9e46d;Benjamin Mort <ben.mort@gmail.com>;1431650700;"fixed cmake bug
+"
+pre;oxfordska_oskar;819a2c432d09536e3a6727757e2227722f1133ec;Fred Dulwich <fred.dulwich@oerc.ox.ac.uk>;1431691575;"Fixes to allow compilation on Mac OS X with CUDA 7.0.
+"
+pre;oxfordska_oskar;70b49f34c2e834db66b1ad336aa01c83c7ab922a;Fred Dulwich <fred.dulwich@oerc.ox.ac.uk>;1431701311;"Commented out unused kernel.
+"
+pre;oxfordska_oskar;c4bde9b31e3ba0e364fd1b27ceead59cebe7c232;Fred Dulwich <fred.dulwich@oerc.ox.ac.uk>;1431946060;"Updated function to save telescope coordinates to also save position errors.
+"
+pre;oxfordska_oskar;21dea350773546a44be5c62a711d0d8b0d3d9a30;Fred Dulwich <fred.dulwich@oerc.ox.ac.uk>;1431946767;"Rename for consistency.
+"
+pre;oxfordska_oskar;4bc3d7dec8972f3cbf61cfc9f9b33cb64d6e5c6a;Fred Dulwich <fred.dulwich@oerc.ox.ac.uk>;1431949063;"Fixed pagination in telescope model documentation. Removed unused figure.
+"
+post;oxfordska_oskar;b80df4cbd1c3467559c1697778f570cf09470802;Fred Dulwich <fred.dulwich@oerc.ox.ac.uk>;1450114795;"Restored lost data from 18 May to 1 October 2015 and subsequent local edits after subversion repository failure. This covers old revisions 2475 to 2556.
+"
+post;oxfordska_oskar;291616d30f36803940df9f6002a5d2b57b56dc42;Fred Dulwich <fred.dulwich@oerc.ox.ac.uk>;1450114795;"Restored lost data from 18 May to 1 October 2015 and subsequent local edits after subversion repository failure. This covers old revisions 2475 to 2556.
+"
+post;oxfordska_oskar;35c565b618bec707f16731e3485a8da13974cd0d;Fred Dulwich <fred.dulwich@oerc.ox.ac.uk>;1450114795;"Restored lost data from 18 May to 1 October 2015 and subsequent local edits after subversion repository failure. This covers old revisions 2475 to 2556.
+"
+post;oxfordska_oskar;4a9848dc8614f077e93cc721bc3a19409121d307;Benjamin Mort <ben.mort@gmail.com>;1450117689;"added a number of recent changes
+"
+post;oxfordska_oskar;b5dda7db848788190e776d50e6774477d6ca9489;Benjamin Mort <benjamin.mort@oerc.ox.ac.uk>;1450188469;"Merge branch 'master' of github.com:OxfordSKA/OSKAR
+"
+post;oxfordska_oskar;02a0bd2d2f5d99203c13a2bbe25212863fe81f55;Fred Dulwich <fred.dulwich@oerc.ox.ac.uk>;1450202117;"Added .gitignore file.
+"
+post;oxfordska_oskar;9f03afbeb27c83be2346f4a8c17d6ddc39252dd2;Fred Dulwich <fred.dulwich@oerc.ox.ac.uk>;1450202180;Fixes to get_column().
+post;oxfordska_oskar;11b86d58b751218d17a28e7bf51b68c4a604c96d;Fred Dulwich <fred.dulwich@oerc.ox.ac.uk>;1450205925;Updated COPYING, INSTALL and README files.
+post;oxfordska_oskar;299d94d649d5bb0e64883465db90110320f3f883;Fred Dulwich <fred.dulwich@oerc.ox.ac.uk>;1450206113;Fixed formatting.
+post;oxfordska_oskar;bf4751eaecc18ba42e027982a8f74a88841a4e3c;Fred Dulwich <fred.dulwich@oerc.ox.ac.uk>;1450208475;Updated README.
+pre;paulhancock_aegean;181af594c247ed3a01df8c01650b2c280c576070;Paul Hancock <paul.hancock@curtin.edu.au>;1661230692;"Merge pull request #190 from PaulHancock/189-concurrent-BANE-crash
+
+fix shared memory conflicts"
+pre;paulhancock_aegean;1c488accff03eabae09beefd706b42ea50e310e0;Paul Hancock <paul.hancock@curtin.edu.au>;1661235857;"Merge pull request #191 from PaulHancock/dev
+
+fix #189"
+pre;paulhancock_aegean;ebef871cf9bb844c658c9190e5a352587db38fbb;PaulHancock <paul.hancock@curtin.edu.au>;1669709089;"create test for loading compressed bkg/rms files
+"
+pre;paulhancock_aegean;ced4478cdd2ec7551803be165041f2d2f399a796;PaulHancock <paul.hancock@curtin.edu.au>;1669710558;"expand BANE bkg/rms files during load_image_band
+"
+pre;paulhancock_aegean;041631265058a8ed5867b48825a7f308d8518d20;PaulHancock <paul.hancock@curtin.edu.au>;1669710653;":lipstic: remove unused imports
+"
+pre;paulhancock_aegean;2d961ae49412dd991b1a26638ac6e120a855d9b6;Paul Hancock <paul.hancock@curtin.edu.au>;1669710925;"Merge pull request #194 from PaulHancock/193-aegean-error-reading-compressed-bkg-and-rms
+
+193 aegean error reading compressed bkg and rms"
+pre;paulhancock_aegean;1d844f7bd4551cfc63aa4850465c6968af1762b1;PaulHancock <paul.hancock@curtin.edu.au>;1669711209;"version/changelog updates for issue #193
+"
+pre;paulhancock_aegean;edaa30be429faf0e0cd672cbf7a8624290b8ba89;Paul Hancock <paul.hancock@curtin.edu.au>;1669711498;"Merge pull request #195 from PaulHancock/dev
+
+Fixes for issue #193"
+pre;paulhancock_aegean;62b8be977d216360edf7a174112be45ceb2066e2;PaulHancock <paul.hancock@curtin.edu.au>;1669713028;"set default --slice=0
+"
+pre;paulhancock_aegean;4b9cacd90b11fdceca535152358956d036585c09;Paul Hancock <paul.hancock@curtin.edu.au>;1669713261;"Merge pull request #196 from PaulHancock/dev
+
+set default --slice=0"
+post;paulhancock_aegean;ed1d5ab0d29c746efcbe2aece4f0086aba02ec94;Thomson, Alec (CASS, Kensington) <alec.thomson@csiro.au>;1684402504;"BANEFFT
+"
+post;paulhancock_aegean;27ac52d6e825cdaf77474221fa45ef8a810cafc8;Thomson, Alec (CASS, Kensington) <alec.thomson@csiro.au>;1684482424;"Chunks in place
+"
+post;paulhancock_aegean;73349353c22b218efef799888c26829f95cceb00;Thomson, Alec (CASS, Kensington) <alec.thomson@csiro.au>;1684482541;"Cleanup
+"
+post;paulhancock_aegean;60c8856b53096ae4db6b8e2569f45e4a8c4d69a2;Thomson, Alec (CASS, Kensington) <alec.thomson@csiro.au>;1684717171;"Cubes
+"
+post;paulhancock_aegean;10b3e0a675e60e32c5eea652d14fbe6826b09f44;Thomson, Alec (CASS, Kensington) <alec.thomson@csiro.au>;1684732702;"Add hooks
+"
+post;paulhancock_aegean;38e4aa775ab211bb664e4c72fbea907a876dedaf;Thomson, Alec (CASS, Kensington) <alec.thomson@csiro.au>;1684732713;"Fix masking
+"
+post;paulhancock_aegean;532f82fcfc4f2ce4a7904ab776d327d03347ab31;Thomson, Alec (CASS, Kensington) <alec.thomson@csiro.au>;1684733681;"Add step and box args
+"
+post;paulhancock_aegean;28a98f652ae8f37774c722cd6307fd548a5b304a;Thomson, Alec (CASS, Kensington) <alec.thomson@csiro.au>;1684734459;"Add cores option
+"
+post;paulhancock_aegean;4ce50ac017fdf6e5239b6d657efb30efa635735d;Thomson, Alec (CASS, Kensington) <alec.thomson@csiro.au>;1684735497;"Add rms estimate upfront
+"
+post;paulhancock_aegean;612aa076a1502ea1ffcc823f0b4681e42091fa89;Thomson, Alec (CASS, Kensington) <alec.thomson@csiro.au>;1684736948;"Fix noise est
+"
+pre;pseudomanifold_aleph;c3faf75100d01262a0209155d93c61f607eeba27;Bastian Rieck <bastian.rieck@bsse.ethz.ch>;1611731780;"Fixed `optind` handling for graph analysis tool
+"
+pre;pseudomanifold_aleph;df9e06a08a794874607234ca1d860fedc5152fb1;Bastian Rieck <bastian.rieck@bsse.ethz.ch>;1611732397;"Fixed deprecated use of `std::bind2nd`
+"
+pre;pseudomanifold_aleph;76f566f34a2627f5642d80732489ade928fde847;Bastian Rieck <bastian.rieck@bsse.ethz.ch>;1611732710;"Fixed attribute access
+"
+pre;pseudomanifold_aleph;74b5c6c6fbc2b48bc8bbf9bb2cc175868c2a4ed8;Bastian Rieck <bastian.rieck@bsse.ethz.ch>;1611734348;"Extended persistence diagram statistics with more columns
+"
+pre;pseudomanifold_aleph;d5c5a5e14e029a3bc6cf7c482e18a80db14ca2cd;Bastian Rieck <bastian.rieck@bsse.ethz.ch>;1611745438;"Added number of features to persistence diagram statistics
+"
+pre;pseudomanifold_aleph;e598cce35de839ba743e803f9e92a5871dfc2f04;Bastian Rieck <bastian.rieck@bsse.ethz.ch>;1612034160;"Only pruning lower-dimensional persistence diagrams
+"
+pre;pseudomanifold_aleph;3b6e025db18a1bc17c201a532c1437b0018c5cf8;Bastian Rieck <bastian.rieck@bsse.ethz.ch>;1632396221;"New test case for cover tree stuff
+"
+pre;pseudomanifold_aleph;df6b1c0bc070d25a6383d9095c9be98b64c36f89;Bastian Rieck <bastian@rieck.me>;1632573214;"Simple heap class
+
+Will probably not be required, but I want to have all the instances of
+this repo synced correctly.
+"
+pre;pseudomanifold_aleph;a053dcfb28d232a233d435daabdcecec8009a4ae;Bastian Rieck <bastian@rieck.me>;1673593769;"Fixed missing headers
+
+Thanks to Scott Mitchell @samitch for raising this issue. It's thanks to
+open-source contributors like yourself that we make progress.
+"
+pre;pseudomanifold_aleph;2e82137d1fc75a5d51c2247fca69f042eccadcf6;Bastian Rieck <bastian@rieck.me>;1674244381;"Improved tutorial (thanks @samitch)
+"
+post;pseudomanifold_aleph;53dfdffca280c200ca99c06ccc4a486108745a56;Bastian Rieck <bastian@rieck.me>;1752677613;"Fixed `PKGBUILD` url
+"
+pre;siepic_siepic_ebeam_pdk;3d520dbb9f0983cef4bb698344a9a46280339214;Lukas Chrostowski <lukasc@ece.ubc.ca>;1528665817;"Merge branch 'master' of https://github.com/lukasc-ubc/SiEPIC_EBeam_PDK
+"
+pre;siepic_siepic_ebeam_pdk;468807839f4ed5ac3023442012bcd7ee61a366f2;Lukas Chrostowski <lukasc@ece.ubc.ca>;1528665817;"Merge branch 'master' of https://github.com/lukasc-ubc/SiEPIC_EBeam_PDK
+
+
+Former-commit-id: 3d520dbb9f0983cef4bb698344a9a46280339214"
+pre;siepic_siepic_ebeam_pdk;c13c243ef596ab7b5a58fcb84c4472b7904c9cdf;Lukas Chrostowski <lukasc@ece.ubc.ca>;1528719033;"v0.3.12
+
+
+Former-commit-id: 52718ec9c09c3422d40a742d7e0622b945c09adf"
+pre;siepic_siepic_ebeam_pdk;52718ec9c09c3422d40a742d7e0622b945c09adf;Lukas Chrostowski <lukasc@ece.ubc.ca>;1528719033;"v0.3.12
+"
+pre;siepic_siepic_ebeam_pdk;f0b3736939529fa1760c71cb80fa7a566e4a064c;lukasc-ubc <lukasc@ece.ubc.ca>;1529987615;"waveguide_bump fix for waveguide length output
+
+
+Former-commit-id: c212a05b5de2c68bcdc75fe2e7ec279946728759"
+pre;siepic_siepic_ebeam_pdk;c212a05b5de2c68bcdc75fe2e7ec279946728759;lukasc-ubc <lukasc@ece.ubc.ca>;1529987615;"waveguide_bump fix for waveguide length output
+"
+pre;siepic_siepic_ebeam_pdk;68e5b7ee54466a5b23a0fe482532dae1b2640298;lukasc-ubc <lukasc@ece.ubc.ca>;1529987633;"add ""try"" for numpy
+"
+pre;siepic_siepic_ebeam_pdk;ac158ef20e24970a35945aa02dd9572a205707dc;lukasc-ubc <lukasc@ece.ubc.ca>;1529987633;"add ""try"" for numpy
+
+
+Former-commit-id: 68e5b7ee54466a5b23a0fe482532dae1b2640298"
+pre;siepic_siepic_ebeam_pdk;ee35cbc53bc65f97b1b093fd164770e030bf1e2e;lukasc-ubc <lukasc@ece.ubc.ca>;1529988814;"Waveguide: coerce the waveguide parameters - consistent in both places
+
+Former-commit-id: aff19ff2a12f878f2adaa5ae02dc2e1bd0532561"
+pre;siepic_siepic_ebeam_pdk;aff19ff2a12f878f2adaa5ae02dc2e1bd0532561;lukasc-ubc <lukasc@ece.ubc.ca>;1529988814;"Waveguide: coerce the waveguide parameters - consistent in both places
+"
+post;siepic_siepic_ebeam_pdk;8d4ae78238b94c41024a3200880fa18e72ab7efd;Lukas Chrostowski <lukasc@ece.ubc.ca>;1534042247;"Merge pull request #189 from SQT-SFU/master
+
+updated layout_waveguide_relative"
+post;siepic_siepic_ebeam_pdk;8f5329ed9fe6756f066b57ad97848bb8b36da19d;Lukas Chrostowski <lukasc@ece.ubc.ca>;1534042247;"Merge pull request #189 from SQT-SFU/master
+
+updated layout_waveguide_relative
+
+Former-commit-id: 8d4ae78238b94c41024a3200880fa18e72ab7efd"
+post;siepic_siepic_ebeam_pdk;cb72fa8ef6f584859554380bfe7c5ab9101241c1;Lukas Chrostowski <lukasc@ece.ubc.ca>;1534061241;"0.3.13
+
+
+Former-commit-id: 84689147bed71dbf0854d5624768d7e431724d93"
+post;siepic_siepic_ebeam_pdk;84689147bed71dbf0854d5624768d7e431724d93;Lukas Chrostowski <lukasc@ece.ubc.ca>;1534061241;"0.3.13
+"
+post;siepic_siepic_ebeam_pdk;62ab59043f1305b719e22176c25b433e62198d8c;Mustafa Hammood <mustafa@ece.ubc.ca>;1534094435;"Contra_DC coupler simulation module
+
+for Contra_directional_coupler PCell
+
+
+Former-commit-id: 99246ad5c95d07c3151840e0d187705a31f17d3a"
+post;siepic_siepic_ebeam_pdk;99246ad5c95d07c3151840e0d187705a31f17d3a;Mustafa Hammood <mustafa@ece.ubc.ca>;1534094435;"Contra_DC coupler simulation module
+
+for Contra_directional_coupler PCell
+"
+post;siepic_siepic_ebeam_pdk;aef42bff4c6a96aaaa3546a570a86c8c901daa2f;Mustafa Hammood <mustafa@ece.ubc.ca>;1534103098;"Contra DC PCell ID fix
+
+
+Former-commit-id: 7b1052132f67e22d06fcd40f1c598c28f45e0f30"
+post;siepic_siepic_ebeam_pdk;7b1052132f67e22d06fcd40f1c598c28f45e0f30;Mustafa Hammood <mustafa@ece.ubc.ca>;1534103098;"Contra DC PCell ID fix
+"
+post;siepic_siepic_ebeam_pdk;6113ff3dc4b86e3256c4545c33e17c1a5fa11fa9;Mustafa Hammood <mustafa@ece.ubc.ca>;1534231180;"contraDC module update
+
+use MATLAB
+"
+post;siepic_siepic_ebeam_pdk;e14d7dbabf6d54180d68dbebcaafa735d621b884;Mustafa Hammood <mustafa@ece.ubc.ca>;1534231180;"contraDC module update
+
+use MATLAB
+
+
+Former-commit-id: 6113ff3dc4b86e3256c4545c33e17c1a5fa11fa9"
+pre;trichter_rf;34d5b83b61b6b17e362397e2fe55719e9e45ff69;richter <richter@gfz-potsdam.de>;1395527729;"change doc
+"
+pre;trichter_rf;e38520ce81965063312fec1c32ce151410e9b9b3;richter <richter@gfz-potsdam.de>;1395527779;"license 2014
+"
+pre;trichter_rf;a0a3357b36a25b1a35500345eef9e791d566e623;richter <richter@gfz-potsdam.de>;1395686607;"adjust .travis.yml
+"
+pre;trichter_rf;2ada6b6e2b4f3dca9435ada7acfd9bc851fd190e;richter <richter@gfz-potsdam.de>;1395687224;"add remarks about hdf5
+"
+pre;trichter_rf;5bdb36da6f5ede72efa04e47e97f063582a748cb;richter <richter@gfz-potsdam.de>;1395688374;"change information submitted to pypi
+"
+pre;trichter_rf;2d60017fd0cb2418f486476ad9d96701fed04552;richter <richter@gfz-potsdam.de>;1395743378;"change email
+"
+pre;trichter_rf;ed59aa67296f20bb7c3c5f042e854a6674ac0476;richter <richter@gfz-potsdam.de>;1397140549;"ci: use build matrix
+"
+pre;trichter_rf;7b6d6b16322da9847670e391ce4a5373711799f2;richter <richter@gfz-potsdam.de>;1397141607;"ci: add cython dependency
+"
+pre;trichter_rf;54dbff95ea90fb433eafe2025e422178d219d9da;richter <richter@gfz-potsdam.de>;1397143089;"ci: try to fix
+"
+pre;trichter_rf;117a7514cc7bb83399ec3ecbe247a14907f00398;richter <richter@gfz-potsdam.de>;1397406968;"ci: use ubuntu package python-h5py
+"
+post;trichter_rf;14d1688a371c6864346f3415d1ab57375fad0a0b;richter <richter@gfz-potsdam.de>;1434695219;"changelog
+"
+post;trichter_rf;7718277b091f6b48177bdd5a6d9482def7afe5c7;richter <richter@gfz-potsdam.de>;1434695241;"minor change
+"
+post;trichter_rf;b372c447384db9326095f0e225f82560040e52b3;richter <richter@gfz-potsdam.de>;1434695274;"cli: change how config file is parsed
+"
+post;trichter_rf;dfc8fef984cb73e9bf9db27a930b7b120aee45cf;richter <richter@gfz-potsdam.de>;1434697463;"fix: tt calculation now working with new obspy.taup module
+"
+post;trichter_rf;b1e93396df75c34c75a772ce011bd05911eef422;richter <richter@gfz-potsdam.de>;1434697692;"add warning for more than 1 phase
+"
+post;trichter_rf;13be4c98fcd850ed6833e85d6b0b2a1b9a99522f;richter <richter@gfz-potsdam.de>;1434699368;"fix reading of invalid SAC headers
+"
+post;trichter_rf;e3f860e276934560f264f33b32a7b27020a91dc9;richter <richter@gfz-potsdam.de>;1434699776;"prepare new release
+"
+post;trichter_rf;76d0160454769661fd477437d6ffc51ba1028a8f;richter <richter@gfz-potsdam.de>;1434700080;"ci: use anaconda
+"
+post;trichter_rf;30c39b0e08bbc66dd39dd6ab0e62ca4bc07f6e2f;trichter <tom.eulenfeld@bgr.de>;1434700653;"minor change
+"
+post;trichter_rf;0dfea37fa7da12a5997b08575a9784bda3a32dd2;trichter <tom.eulenfeld@bgr.de>;1434700695;"ci: try to fix
+"
